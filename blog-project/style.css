@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(15, 14, 14, 0.858);
+    
+    
+}
+
+img{
+    width: 30%;
+    float: left;
+    margin-right: 10px;
+    padding: 0.5rem;
+    
+    /* border: 1px solid red; */
+}
+.content{
+    color: purple;
+    font-size: 34px;
+}
+.border{
+    display: inline-block;
+    border: 3px solid;
+    color: purple;
+    
+}

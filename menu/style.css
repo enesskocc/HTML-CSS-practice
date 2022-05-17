@@ -1,0 +1,32 @@
+
+*{
+    margin: 0.5;
+}
+.nav ul{
+    display: none;
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    width: 7rem;
+    height: 5rem;
+    text-align: left;
+    padding-left: 1.5rem;
+    margin-top: -1rem;
+    
+}
+
+nav:hover ul{
+    
+    display:block;
+}
+
+.nav p{
+    border: 1px solid black;
+    width: 7rem;
+    height: 2rem;
+    text-align: center;
+    padding-top: 0.75rem;
+    color: white;
+    background-color: gray;
+    
+}
