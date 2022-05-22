@@ -1,0 +1,75 @@
+
+
+.ana{
+    
+    
+    width: 70rem;
+}
+
+
+.tab{
+    background-color: rgba(211, 211, 211, 0.404);
+    width: 70%;
+}
+
+.bir{
+    background-color: rgba(0, 0, 0, 0.516);
+    color: white;
+}
+
+.son{
+    background-color: rgba(0, 0, 0, 0.516);
+    color: white; 
+    
+    
+    
+   
+}
+
+.sayi{
+    text-align: center;
+}
+
+.buton{
+    /* right: 20rem; */
+    width: 15rem;
+    
+    color: white;
+    background-color: rgb(214, 96, 114);
+    padding: 0.75rem;
+    border: 5px solid;
+    
+}
+
+.buton i{
+  position: relative;
+  left: -2rem;
+}
+
+
+
+.ana-buton{
+    display: flex;
+    justify-content: end;
+   
+    width: 49rem;
+   
+    margin-top: 1rem;
+    
+    
+    
+}
+
+
+.rakam{
+    text-align: right;
+}
+
+table.tab tbody tr:nth-child(odd){
+    background-color: rgb(158, 158, 158);  
+}
+
+table.tab td,
+table.tab th {
+  padding: 0.4rem;
+}
