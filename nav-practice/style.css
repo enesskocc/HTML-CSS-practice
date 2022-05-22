@@ -1,0 +1,50 @@
+.container{
+    display:grid;
+    
+   
+  
+}
+
+.image {
+    grid-column: 1 / span 2;
+    border:1px solid gray;
+    
+    
+
+  }
+  
+  .nav {
+    grid-column: 1 / span 2;
+    grid-row: 2 ;
+    border:1px solid gray;
+    padding: 15px;
+    text-align: center;
+    background-color: rgb(61, 185, 226) ;
+    font-size: 2rem;
+    font-weight: 600;
+  }
+
+  .menu{
+    grid-column: 1 ;
+    grid-row: 3 ;
+    border:1px solid gray;
+    padding: 40px;
+    background-color: yellowgreen;
+  }
+
+  .par{
+      grid-column: 2;
+      border:1px solid gray;
+      padding-top: 15px;
+      background-color: orange;
+  }
+  
+  .fot {
+    grid-column: 1 / span 2;
+    border:1px solid gray;
+    padding: 15px;
+    text-align: center;
+    background-color: rgb(61, 185, 226);
+  }
+
+  
